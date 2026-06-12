@@ -1,12 +1,33 @@
 # GOOSE-M2F
 
-> **GOOSE-M2F** is a task-specific adaptation of [Mask2Former](https://github.com/facebookresearch/Mask2Former) for the [GOOSE 2D Fine Grained Semantic Segmentation Challenge](https://www.codabench.org/competitions/14257) — 64-class unstructured outdoor terrain parsing.
+## GOOSE-M2F: Adapting Mask2Former for High-Fidelity, Long-Tailed Fine-Grained Semantic Segmentation in Unstructured Outdoor Terrain
 
-[**Official Composite mIoU: 70.08% (Fine mIoU + Coarse mIoU / 2**)](https://www.codabench.org/competitions/14257/#/results-tab)
+**Aditya Lingam, Nikhileswara Rao Sulake, Sai Manikanta Eswar Machara**
+
+*Department of Computer Science and Engineering*
+*Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid, Andhra Pradesh, India*
+
+<p align="center">
+  <a href="https://arxiv.org/abs/XXXX.XXXXX"><b>📄 Paper</b></a> •
+  <a href="https://github.com/Aditya-Lingam-9000/GOOSE-M2F"><b>💻 Code</b></a> •
+  <a href="https://huggingface.co/XYZ9843/GOOSE-M2F"><b>🤗 Hugging Face</b></a> •
+  <a href="https://www.codabench.org/competitions/14257"><b>🏆 Challenge</b></a>
+</p>
+
+> **GOOSE-M2F** is a task-specific adaptation of Mask2Former for the **GOOSE 2D Fine-Grained Semantic Segmentation Challenge (ICRA 2026)**. The proposed framework addresses long-tailed semantic segmentation in unstructured outdoor environments through enhanced object query capacity, feature refinement, auxiliary supervision, class-balanced optimization, and robust multi-scale inference.
+
+> **Official Challenge Performance:** **70.08% Composite mIoU** (63.55% Fine mIoU, 76.61% Coarse mIoU), achieving **3rd Place** on the GOOSE 2D FGSS Challenge Leaderboard.
 
 ---
-> A complete step-by-step guide for setting up the environment, preparing data, training the model, and running inference on any machine, see [instructions/instructions.md](instructions/instructions.md).
+
+### 📢 News
+
+* **[ICRA 2026]** GOOSE-M2F achieved **3rd Place** in the GOOSE 2D Fine-Grained Semantic Segmentation Challenge.
+* **[2026]** Source code and trained models released.
+* **[2026]** Technical report available on arXiv.
+
 ---
+
 
 ## What is GOOSE-M2F?
 
@@ -221,12 +242,11 @@ See `requirements.txt` for the complete list.
 If you use this work, please cite:
 
 ```bibtex
-@techreport{goosem2f2025,
-  title     = {GOOSE-M2F: Adapting Mask2Former for High-Fidelity,
-               Long-Tailed Fine Grained Semantic Segmentation},
-  author    = {Team GOOSE},
+@techreport{---,
+  title     = {GOOSE-M2F: Adapting Mask2Former for High-Fidelity, Long-Tailed Fine-Grained Semantic Segmentation in Unstructured Outdoor Terrain},
+  author    = {---},
   year      = {2026},
-  institution = {ICRA 2026 GOOSE 2D Fine Grained Segmentation Challenge}
+  institution = {---}
 }
 ```
 
