@@ -1,6 +1,6 @@
 ## GOOSE-M2F: Adapting Mask2Former for High-Fidelity, Long-Tailed Fine-Grained Semantic Segmentation in Unstructured Outdoor Terrain
 
-**Aditya Lingam, Nikhileswara Rao Sulake, Sai Manikanta Eswar Machara**
+**Jyothiraditya Lingam, Nikhileswara Rao Sulake, Sai Manikanta Eswar Machara**
 
 *Department of Computer Science and Engineering*
 *Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid, Andhra Pradesh, India*
