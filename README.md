@@ -6,7 +6,7 @@
 *Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid, Andhra Pradesh, India*
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><b>📄 Paper</b></a> •
+  <a href="https://arxiv.org/abs/2606.15937"><b>📄 Paper</b></a> •
   <a href="https://github.com/Aditya-Lingam-9000/GOOSE-M2F"><b>💻 Code</b></a> •
   <a href="https://huggingface.co/XYZ9843/GOOSE-M2F"><b>🤗 Hugging Face</b></a> •
   <a href="https://www.codabench.org/competitions/14257"><b>🏆 Challenge</b></a>
