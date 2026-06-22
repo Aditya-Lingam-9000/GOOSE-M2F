@@ -1,6 +1,6 @@
 ## GOOSE-M2F: Adapting Mask2Former for High-Fidelity, Long-Tailed Fine-Grained Semantic Segmentation in Unstructured Outdoor Terrain
 
-**Jyothiraditya Lingam, Nikhileswara Rao Sulake, Sai Manikanta Eswar Machara**
+**Jyothiradithya Lingam, Nikhileswara Rao Sulake, Sai Manikanta Eswar Machara**
 
 *Department of Computer Science and Engineering*
 *Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid, Andhra Pradesh, India*
@@ -149,8 +149,8 @@ goose-m2f/
 ### 1. Setup
 
 ```bash
-git clone https://github.com/Aditya-Lingam-9000/GOOSE-2D-FGSS-Challenge
-cd GOOSE-2D-FGSS-Challenge
+git clone https://github.com/Aditya-Lingam-9000/GOOSE-M2F
+cd GOOSE-M2F
 
 conda create -n goose python=3.11 -y && conda activate goose
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
